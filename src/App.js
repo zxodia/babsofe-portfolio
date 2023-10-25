@@ -10,7 +10,7 @@ import './App.scss'
 function App() {
   return (
     <>
-    <BrowserRouter basename='babsofe-portfolio'>
+  
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
@@ -20,7 +20,6 @@ function App() {
           <Route path="/dashboard" element={<Dashboard />} />
         </Route>
       </Routes>
-      </BrowserRouter>
     </>
   )
 }
