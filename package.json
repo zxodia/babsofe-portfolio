@@ -2,7 +2,7 @@
   "name": "babsofe-portfolio",
   "homepage": "https://zxodia.github.io/babsofe-portfolio",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emailjs/browser": "^3.4.0",
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
