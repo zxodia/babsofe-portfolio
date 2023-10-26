@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/babsofe-portfolio/static/css/main.c6c010f6.css",
+    "main.css": "/babsofe-portfolio/static/css/main.516da28b.css",
     "main.js": "/babsofe-portfolio/static/js/main.b7877e67.js",
     "static/js/787.56cb40e5.chunk.js": "/babsofe-portfolio/static/js/787.56cb40e5.chunk.js",
     "static/media/logo-babs.png": "/babsofe-portfolio/static/media/logo-babs.e3037452d6c06fd39084.png",
@@ -12,12 +12,12 @@
     "static/media/CoolveticaRg-Regular.woff": "/babsofe-portfolio/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
     "static/media/CoolveticaRg-Regular.woff2": "/babsofe-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/babsofe-portfolio/index.html",
-    "main.c6c010f6.css.map": "/babsofe-portfolio/static/css/main.c6c010f6.css.map",
+    "main.516da28b.css.map": "/babsofe-portfolio/static/css/main.516da28b.css.map",
     "main.b7877e67.js.map": "/babsofe-portfolio/static/js/main.b7877e67.js.map",
     "787.56cb40e5.chunk.js.map": "/babsofe-portfolio/static/js/787.56cb40e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6c010f6.css",
+    "static/css/main.516da28b.css",
     "static/js/main.b7877e67.js"
   ]
 }
