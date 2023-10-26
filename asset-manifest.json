@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/babsofe-portfolio/static/css/main.4e2f2937.css",
-    "main.js": "/babsofe-portfolio/static/js/main.663d9baa.js",
+    "main.css": "/babsofe-portfolio/static/css/main.c6c010f6.css",
+    "main.js": "/babsofe-portfolio/static/js/main.b7877e67.js",
     "static/js/787.56cb40e5.chunk.js": "/babsofe-portfolio/static/js/787.56cb40e5.chunk.js",
-    "static/media/logo-babs.png": "/babsofe-portfolio/static/media/logo-babs.8e2e85cdbc035adb6159.png",
+    "static/media/logo-babs.png": "/babsofe-portfolio/static/media/logo-babs.e3037452d6c06fd39084.png",
     "static/media/logo-s.png": "/babsofe-portfolio/static/media/logo-s.9d2acdc6d591fd138268.png",
     "static/media/logo_sub.png": "/babsofe-portfolio/static/media/logo_sub.d507b53af207d2091db9.png",
     "static/media/helvetica-neu.ttf": "/babsofe-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
@@ -12,12 +12,12 @@
     "static/media/CoolveticaRg-Regular.woff": "/babsofe-portfolio/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
     "static/media/CoolveticaRg-Regular.woff2": "/babsofe-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/babsofe-portfolio/index.html",
-    "main.4e2f2937.css.map": "/babsofe-portfolio/static/css/main.4e2f2937.css.map",
-    "main.663d9baa.js.map": "/babsofe-portfolio/static/js/main.663d9baa.js.map",
+    "main.c6c010f6.css.map": "/babsofe-portfolio/static/css/main.c6c010f6.css.map",
+    "main.b7877e67.js.map": "/babsofe-portfolio/static/js/main.b7877e67.js.map",
     "787.56cb40e5.chunk.js.map": "/babsofe-portfolio/static/js/787.56cb40e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e2f2937.css",
-    "static/js/main.663d9baa.js"
+    "static/css/main.c6c010f6.css",
+    "static/js/main.b7877e67.js"
   ]
 }
